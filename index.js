@@ -185,7 +185,8 @@ function allow_edit() {
     p2.style.display = "block";
     p3.style.display = "block";
     p4.style.display = "block";
-  } else {
+  } 
+  else {
     a.style.display = "none";
     b.style.display = "none";
     c.style.display = "none";
