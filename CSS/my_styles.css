@@ -1364,14 +1364,14 @@ p {
   width: 8%;
 }
 
-/* @keyframes animStar {
+@keyframes animStar {
   from {
     transform: translatey(0px);
   }
   to {
     transform: translateY(-2000px);
   }
-} */
+}
 
 .bottom_cloud {
   position: absolute;
