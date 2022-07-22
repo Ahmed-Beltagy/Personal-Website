@@ -112,7 +112,7 @@ function update() {
     var element9 = document.getElementById("p4");
     element9.innerHTML = p4_textarea;
 
-    alert("Section Updated");
+    alert("Updated Successfully");
     document.querySelector(".modal").style.display = "none";
   }
 }
